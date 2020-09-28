@@ -8,10 +8,10 @@ The Military Pension Management System is a distributed system that will assist 
 
 ●●Main Functionalities Include.
 
-● Registration of eligible Pension Candidates
-● Approval or Denial of Applications
-● Pension Calculation
-● Pension related Inquiries
+● Registration of eligible Pension Candidates  
+● Approval or Denial of Applications  
+● Pension Calculation  
+● Pension related Inquiries  
 
 ●●Some Problem Definition and Proposed Solutions
 
@@ -37,15 +37,15 @@ A system which allows eligible military pensioners to register in the Department
 
 ●●Objectives
 
-● Making the Registration Process more convenient and automated.
-● Automating the pension calculating process.
-● Providing functionalities for pensioner’s view and manage their accounts/profiles.
-● Providing functionalities to Pension Department employees control over individual pensioner accounts
-● Providing a proper interface for communication between the department, forces and pensioners.
+● Making the Registration Process more convenient and automated.  
+● Automating the pension calculating process.  
+● Providing functionalities for pensioner’s view and manage their accounts/profiles.  
+● Providing functionalities to Pension Department employees control over individual pensioner accounts  
+● Providing a proper interface for communication between the department, forces and pensioners.  
 
 ●●Deliverables
 
-● Client End (web)
-● Admin End (web)
-● SMS Gateway Integration
-● Payment Gateway Integration
+● Client End (web)  
+● Admin End (web)  
+● SMS Gateway Integration  
+● Payment Gateway Integration  
